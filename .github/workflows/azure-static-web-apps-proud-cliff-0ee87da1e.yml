@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - react
+      - gatsby
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
