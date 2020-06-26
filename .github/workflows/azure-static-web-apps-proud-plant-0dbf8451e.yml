@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - master
-    paths:
-      - vue/**
+    #paths:
+      #- vue/**
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
