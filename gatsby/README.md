@@ -13,7 +13,7 @@ Kick off your project with this hello-world boilerplate. This starter ships with
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
-testing!
+testing!!
 
 1.  **Create a Gatsby site.** 
     Use the Gatsby CLI to create a new site, specifying the hello-world starter.
